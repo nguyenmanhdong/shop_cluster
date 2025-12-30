@@ -1,7 +1,7 @@
 # README – Phân khúc khách hàng dựa trên Luật kết hợp & RFM
 ## 👥 Thông tin Nhóm
 
-- **Nhóm:** Nhóm 5
+- **Nhóm:** Nhóm 4
 - **Thành viên:**
   - Phan Việt Hùng
   - Nguyễn Mạnh Đông
